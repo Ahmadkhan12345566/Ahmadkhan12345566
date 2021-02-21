@@ -1,4 +1,4 @@
-# Asif Raza 
+# Arslan Ahmad
 [![Twitter Badge](https://img.shields.io/badge/-@AhamdKhan16-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AhamdKhan16)](https://twitter.com/AhamdKhan16) [![Linkedin Badge](https://img.shields.io/badge/Arslan-Ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslanahmad786/)](https://www.linkedin.com/in/arslanahmad786/) 
 [![Gmail Badge](https://img.shields.io/badge/-arslanahmad12345566@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslanahmad12345566@gmail.com)](mailto:b.arslanahmad12345566@gmail.com) [![Stackoverflow](https://img.shields.io/badge/stackoverflow%20reputation-3.3K-yellow)](https://stackoverflow.com/users/6605031/arslan-ahmad) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
@@ -10,18 +10,17 @@
 
 
 ## Hi 👋, 
-I'm Asif Raza, an enthusiast programmer 💻 who is steadily but consistently expanding his skill set in ✨  _Web_ _Development_ ✨ and Stragiest of web applications. 
+I'm Arslan, an enthusiast programmer 💻 who is steadily but consistently expanding his skill set in ✨  _Web_ _Development_ ✨ and Stragiest of web applications. 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on UI/UX
+- 🔭 I’m currently working on backend development
 - 🌱 I’m currently learning Node...
 - 💬 Ask me about AWS
-- 📫 How to reach me: raoasifraz1 at gmail dot com
-- 😄 Pronouns: Asfi
+- 😄 Pronouns: Ahmad
 
 Know more about me on my [website](#). 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raoasifraza11&theme=blue-green)](https://github.com/raoasifraza11/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahmadkhan12345566&theme=blue-green)](https://github.com/Ahmadkhan12345566/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=raoasifraza11&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadkhan12345566&theme=blue-green)
 
