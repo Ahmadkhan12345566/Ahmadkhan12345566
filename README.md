@@ -14,8 +14,8 @@ I'm Arslan, an enthusiast programmer 💻 who is steadily but consistently expan
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning Node...
-- 💬 Ask me about AWS
+- 🌱 I’m currently learning Android...
+- 💬 Ask me about codeigniter & laravel
 - 😄 Pronouns: Ahmad
 
 Know more about me on my [website](#). 
