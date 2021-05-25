@@ -10,7 +10,7 @@
 
 
 ## Hi 👋, 
-I'm Arslan, an enthusiast programmer 💻 who is steadily but consistently expanding his skill set in ✨  _Web_ _Development_ ✨ and Stragiest of web applications. 
+I'm Arslan, an enthusiast web developer 💻 who is steadily but consistently expanding his skill set in ✨  _Web_ _Development_ ✨ and Stragiest of web applications. 
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on backend development
