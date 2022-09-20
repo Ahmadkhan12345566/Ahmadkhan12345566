@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about codeigniter & laravel
 - 😄 Pronouns: Ahmad
 
-Know more about me on my [website](#). 
+Know more about me on my <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arslanahmadkhan" target="_blank">website</a>(#). 
 
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arslanahmadkhan" target="_blank">Follow on LinkedIn</a>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahmadkhan12345566&theme=blue-green)](https://github.com/Ahmadkhan12345566/github-readme-stats)
 
