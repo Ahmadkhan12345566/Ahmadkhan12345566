@@ -20,6 +20,26 @@ Here are some ideas to get you started:
 
 Know more about me on my <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arslanahmadkhan" target="_blank">website</a> & <a href="https://business.fiverr.com/share/y8egg5">fiverr</a>
 
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/ahmadkhan880 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-7b9f69fe-db49-4dcb-b1f8-a4732ae51574' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >ahmadkhan880</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I Have a team of a full-stack web developers specialised in Vue Js, Node Js, Laravel, etc.
+
+I Launched multiple projects from the empty repository to fully-functional production deployments.
+
+Having great comfort with PHP, WordPress, HTML5, CSS3,PSD to HTML,PSD to WordPress, Web Developing, Responsive Designing, Web Designing, MySQL, Payment Integration, Adobe Photoshop, JavaScript, Jquery and other related Skills.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-7b9f69fe-db49-4dcb-b1f8-a4732ae51574' src='https://widgets.fiverr.com/api/v1/seller/ahmadkhan880?widget_id=7b9f69fe-db49-4dcb-b1f8-a4732ae51574' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
 
 
 
