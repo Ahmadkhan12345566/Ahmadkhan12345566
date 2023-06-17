@@ -1,6 +1,6 @@
 # Arslan Ahmad khan
 [![Twitter Badge](https://img.shields.io/badge/-@AhamdKhan16-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AhamdKhan16)](https://twitter.com/AhamdKhan16) [![Linkedin Badge](https://img.shields.io/badge/Arslan-Ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslanahmad786/)](https://www.linkedin.com/in/arslanahmad786/) 
-[![Gmail Badge](https://img.shields.io/badge/-arslanahmad12345566@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslanahmad12345566@gmail.com)](mailto:b.arslanahmad12345566@gmail.com) [![Stackoverflow](https://img.shields.io/badge/stackoverflow%20reputation-4.9K-yellow)](https://stackoverflow.com/users/6605031/arslan-ahmad) 
+[![Gmail Badge](https://img.shields.io/badge/-arslanahmad12345566@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslanahmad12345566@gmail.com)](mailto:b.arslanahmad12345566@gmail.com) [![Stackoverflow](https://img.shields.io/badge/stackoverflow%20reputation-5.4K-yellow)](https://stackoverflow.com/users/6605031/arslan-ahmad) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadkhan12345566.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ahmadkhan12345566?tab=followers)
 
