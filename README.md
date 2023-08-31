@@ -15,7 +15,7 @@ I'm Arslan, an enthusiast web developer 💻 who is steadily but consistently ex
 Here are some ideas to get you started:
 - 🔭 I’m currently working on backend development
 - 🌱 I’m currently learning blockchain...
-- 💬 Ask me about codeigniter & laravel
+- 💬 Ask me about codeigniter & node
 - 😄 Pronouns: Ahmad
 
 Know more about me on my <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arslanahmadkhan" target="_blank">website</a> & <a href="https://business.fiverr.com/s/Pa13QE">fiverr</a>
