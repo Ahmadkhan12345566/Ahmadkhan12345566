@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning blockchain...
 - 💬 Ask me about codeigniter & node
 - 😄 Pronouns: Ahmad
-- 🌿 Founder of Herbsdepo.pk: Your top destination for alternative medicine, homeopathic, and herbal remedies.
-- 📺 You can watch me on YouTube
+- 🌿 Founder of <a href="https://herbsdepo.pk/">Herbsdepo.pk </a> : Your top destination for alternative medicine, homeopathic, and herbal remedies.
+- 📺 You can watch me on <a href= "https://www.youtube.com/c/AllroundZone">YouTube</a>
 
 Know more about me on my <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arslanahmadkhan" target="_blank">website</a> & <a href="https://business.fiverr.com/s/Pa13QE">fiverr</a>
 
